@@ -1,0 +1,7 @@
+pch.h
+stdafx.h
+CScriptMgr.h
+targetver.h
+CSceneSaveLoad.h
+CPlayerInfo.h
+CScriptLevelSaveLoad.h
