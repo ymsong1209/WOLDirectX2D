@@ -1,0 +1,1015 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Script">
+      <UniqueIdentifier>{560b9c22-2085-421e-88aa-47c47f8afecd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Default">
+      <UniqueIdentifier>{068e9010-5ab4-413f-9617-a208bd59ced3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Script\ParticleScript">
+      <UniqueIdentifier>{ef2d177e-96b7-48de-a0b5-6c33289b4090}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Script\PlayerScript">
+      <UniqueIdentifier>{acb72a20-4d0a-4d39-a696-8715dbbe24e3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Script\MapScript">
+      <UniqueIdentifier>{eb1146f4-f14f-4d17-95bb-fc66c83584b1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Script\TestScripts">
+      <UniqueIdentifier>{d1f1110c-7eda-4f00-8077-ec16d5ade569}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Script\CameraScript">
+      <UniqueIdentifier>{75e84b65-c6d9-4308-9691-89f7cc6b39d9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Script\PlayerScript\PlayerAfterImage">
+      <UniqueIdentifier>{a3aa38af-0ec6-4e9d-91ce-27f9b1415be7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Script\PlayerScript\PlayerHitBox">
+      <UniqueIdentifier>{2e213518-08e3-4627-a903-2d899d0e1868}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Script\PlayerScript\PlayerStateScript">
+      <UniqueIdentifier>{21699f9e-7bb7-4ceb-b104-023db5fb102d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Script\PlayerScript\PlayerSkills">
+      <UniqueIdentifier>{3d83710e-6710-4202-b56b-88a415e53ead}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Script\PlayerScript\PlayerSkills\Meteor">
+      <UniqueIdentifier>{0383611e-8105-42db-a1f5-d76133bc2101}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Script\PlayerScript\PlayerSkills\NormalAttack">
+      <UniqueIdentifier>{1b5800b5-3285-4a40-9763-6d4a34c3515c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Script\PlayerScript\PlayerSkills\DragonBreath">
+      <UniqueIdentifier>{5d4c1769-0297-4b0d-bba5-97881b626bbc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Script\PlayerScript\PlayerSkills\WaterBomb">
+      <UniqueIdentifier>{6d824daa-4e16-47e2-bc1f-25207794af2b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Script\PlayerScript\PlayerSkills\ChaosBomb">
+      <UniqueIdentifier>{6827f70f-df29-4f1e-8233-802be158b953}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Script\MonsterScript">
+      <UniqueIdentifier>{23ed94be-6cc3-4dbd-ac27-d3cf4adc714f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Script\MonsterScript\SwordManScript">
+      <UniqueIdentifier>{7dfd8bb3-98ce-4d5e-962a-01e9f25e5c8f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Script\MonsterScript\MageScript">
+      <UniqueIdentifier>{5a8c36d7-cea2-4df3-a5c4-583ea1d9d028}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Script\MonsterScript\MageScript\MageBallScript">
+      <UniqueIdentifier>{29ce223c-1a8a-4c2e-b7c3-29e3c05f29ce}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Script\MonsterScript\SpawnPointScript">
+      <UniqueIdentifier>{e4755a13-7507-4a97-bec9-261275a57aa9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Script\MonsterScript\GhoulScript">
+      <UniqueIdentifier>{0e0a78b8-4619-4c1c-88f7-43f8b72bc1ed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Script\MapScript\BossMap">
+      <UniqueIdentifier>{06d74f78-fc1f-4a74-ba01-7c063298872c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Script\BossScript">
+      <UniqueIdentifier>{a7b0a3c4-d583-4fac-b1e3-5f6816ae2e91}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Script\BossScript\BossAttack">
+      <UniqueIdentifier>{39183eec-41ea-4dfc-845a-fae54eceb472}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Script\PlayerScript\PlayerParticle">
+      <UniqueIdentifier>{bc520053-463d-4b45-b597-517f00b241b4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Script\PlayerScript\PlayerUI">
+      <UniqueIdentifier>{8aa54b3c-7440-45d5-975e-dd2bf1db015e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Script\PlayerScript\PlayerUI\SkillSlot">
+      <UniqueIdentifier>{4b7a1a31-34fe-4881-aef3-692c86b6be2b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Script\BossScript\UI">
+      <UniqueIdentifier>{2444bf39-3707-42ee-8049-ef172b4445b7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Script\MapScript\MainMenu">
+      <UniqueIdentifier>{30c6bb52-d160-4450-b5e3-f545bf3e3c04}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ScriptLevelSaveLoad">
+      <UniqueIdentifier>{cd6b4be7-8ab9-43f3-93a5-8fa95205256b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Script\MapScript\NormalMap">
+      <UniqueIdentifier>{4564bac5-e9c7-43e2-b23b-851cd697e192}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Script\MapScript\NormalMap\MapObject">
+      <UniqueIdentifier>{ec0352fe-1edd-45de-90f3-20899e831b00}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Script\MapScript\MapPortal">
+      <UniqueIdentifier>{87946d40-987c-4908-8a5e-8d70ab3e9de1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Script\MapScript\HomeMap">
+      <UniqueIdentifier>{be47d883-a364-4746-bf6c-500f09b4f10c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Script\MapScript\NormalMap\MapObject\Arcana">
+      <UniqueIdentifier>{25dcb4d6-3026-49a8-b459-40a993b255bf}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CRainParticleScript.h">
+      <Filter>Script\ParticleScript</Filter>
+    </ClInclude>
+    <ClInclude Include="CSnowParticleScript.h">
+      <Filter>Script\ParticleScript</Filter>
+    </ClInclude>
+    <ClInclude Include="CExplosionParticleScript.h">
+      <Filter>Script\ParticleScript</Filter>
+    </ClInclude>
+    <ClInclude Include="CFireParticleScript.h">
+      <Filter>Script\ParticleScript</Filter>
+    </ClInclude>
+    <ClInclude Include="framework.h">
+      <Filter>Default</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>Default</Filter>
+    </ClInclude>
+    <ClInclude Include="CScriptMgr.h" />
+    <ClInclude Include="CPlayerScript.h">
+      <Filter>Script\PlayerScript</Filter>
+    </ClInclude>
+    <ClInclude Include="CPlayerColorScript.h">
+      <Filter>Script\TestScripts</Filter>
+    </ClInclude>
+    <ClInclude Include="CMissileScript.h">
+      <Filter>Script\TestScripts</Filter>
+    </ClInclude>
+    <ClInclude Include="CChildScript.h">
+      <Filter>Script\TestScripts</Filter>
+    </ClInclude>
+    <ClInclude Include="CCameraMoveScript.h">
+      <Filter>Script\CameraScript</Filter>
+    </ClInclude>
+    <ClInclude Include="CPlayerCameraScript.h">
+      <Filter>Script\CameraScript</Filter>
+    </ClInclude>
+    <ClInclude Include="CPlayerAfterImageScript.h">
+      <Filter>Script\PlayerScript\PlayerAfterImage</Filter>
+    </ClInclude>
+    <ClInclude Include="CPlayerIdleScript.h">
+      <Filter>Script\PlayerScript\PlayerStateScript</Filter>
+    </ClInclude>
+    <ClInclude Include="CPlayerAttackScript.h">
+      <Filter>Script\PlayerScript\PlayerStateScript</Filter>
+    </ClInclude>
+    <ClInclude Include="CPlayerDashScript.h">
+      <Filter>Script\PlayerScript\PlayerStateScript</Filter>
+    </ClInclude>
+    <ClInclude Include="CPlayerDashStopScript.h">
+      <Filter>Script\PlayerScript\PlayerStateScript</Filter>
+    </ClInclude>
+    <ClInclude Include="CPlayerSlideScript.h">
+      <Filter>Script\PlayerScript\PlayerStateScript</Filter>
+    </ClInclude>
+    <ClInclude Include="CPlayerWalkScript.h">
+      <Filter>Script\PlayerScript\PlayerStateScript</Filter>
+    </ClInclude>
+    <ClInclude Include="CPlayerHitBoxScript.h">
+      <Filter>Script\PlayerScript\PlayerHitBox</Filter>
+    </ClInclude>
+    <ClInclude Include="CPlayerFallScript.h">
+      <Filter>Script\PlayerScript\PlayerStateScript</Filter>
+    </ClInclude>
+    <ClInclude Include="CMonsterScript.h">
+      <Filter>Script\MonsterScript</Filter>
+    </ClInclude>
+    <ClInclude Include="CSnowFlakeScript.h">
+      <Filter>Script\PlayerScript\PlayerSkills</Filter>
+    </ClInclude>
+    <ClInclude Include="CPlayerDeadScript.h">
+      <Filter>Script\PlayerScript\PlayerStateScript</Filter>
+    </ClInclude>
+    <ClInclude Include="CMeteorScript.h">
+      <Filter>Script\PlayerScript\PlayerSkills\Meteor</Filter>
+    </ClInclude>
+    <ClInclude Include="CMeteorRingScript.h">
+      <Filter>Script\PlayerScript\PlayerSkills\Meteor</Filter>
+    </ClInclude>
+    <ClInclude Include="CMeteorSmokeParticleScript.h">
+      <Filter>Script\PlayerScript\PlayerSkills\Meteor</Filter>
+    </ClInclude>
+    <ClInclude Include="CMeteorFloorCrackScript.h">
+      <Filter>Script\PlayerScript\PlayerSkills\Meteor</Filter>
+    </ClInclude>
+    <ClInclude Include="CMeteorDamageZoneScript.h">
+      <Filter>Script\PlayerScript\PlayerSkills\Meteor</Filter>
+    </ClInclude>
+    <ClInclude Include="CMeteorSpawnCircleScript.h">
+      <Filter>Script\PlayerScript\PlayerSkills\Meteor</Filter>
+    </ClInclude>
+    <ClInclude Include="CBackHandAttackScript.h">
+      <Filter>Script\PlayerScript\PlayerSkills\NormalAttack</Filter>
+    </ClInclude>
+    <ClInclude Include="CForeHandAttackScript.h">
+      <Filter>Script\PlayerScript\PlayerSkills\NormalAttack</Filter>
+    </ClInclude>
+    <ClInclude Include="CDragonBreathScript.h">
+      <Filter>Script\PlayerScript\PlayerSkills\DragonBreath</Filter>
+    </ClInclude>
+    <ClInclude Include="CDragonParticleScript.h">
+      <Filter>Script\PlayerScript\PlayerSkills\DragonBreath</Filter>
+    </ClInclude>
+    <ClInclude Include="CWaterBombScript.h">
+      <Filter>Script\PlayerScript\PlayerSkills\WaterBomb</Filter>
+    </ClInclude>
+    <ClInclude Include="CPlayerInfo.h">
+      <Filter>Script\PlayerScript</Filter>
+    </ClInclude>
+    <ClInclude Include="CChaosBombScript.h">
+      <Filter>Script\PlayerScript\PlayerSkills\ChaosBomb</Filter>
+    </ClInclude>
+    <ClInclude Include="CBlackHoleParticleScript.h">
+      <Filter>Script\PlayerScript\PlayerSkills\ChaosBomb</Filter>
+    </ClInclude>
+    <ClInclude Include="CSwordManScript.h">
+      <Filter>Script\MonsterScript\SwordManScript</Filter>
+    </ClInclude>
+    <ClInclude Include="CSwordManIdleScript.h">
+      <Filter>Script\MonsterScript\SwordManScript</Filter>
+    </ClInclude>
+    <ClInclude Include="CSwordManTraceScript.h">
+      <Filter>Script\MonsterScript\SwordManScript</Filter>
+    </ClInclude>
+    <ClInclude Include="CSwordManHitScript.h">
+      <Filter>Script\MonsterScript\SwordManScript</Filter>
+    </ClInclude>
+    <ClInclude Include="CSwordManDeadScript.h">
+      <Filter>Script\MonsterScript\SwordManScript</Filter>
+    </ClInclude>
+    <ClInclude Include="CSwordManHitBoxScript.h">
+      <Filter>Script\MonsterScript\SwordManScript</Filter>
+    </ClInclude>
+    <ClInclude Include="CSwordManAttackScript.h">
+      <Filter>Script\MonsterScript\SwordManScript</Filter>
+    </ClInclude>
+    <ClInclude Include="CSwordManAttackTraceScript.h">
+      <Filter>Script\MonsterScript\SwordManScript</Filter>
+    </ClInclude>
+    <ClInclude Include="CPlayerHitScript.h">
+      <Filter>Script\PlayerScript\PlayerStateScript</Filter>
+    </ClInclude>
+    <ClInclude Include="CMageScript.h">
+      <Filter>Script\MonsterScript\MageScript</Filter>
+    </ClInclude>
+    <ClInclude Include="CMageAttackScript.h">
+      <Filter>Script\MonsterScript\MageScript</Filter>
+    </ClInclude>
+    <ClInclude Include="CMageDeadScript.h">
+      <Filter>Script\MonsterScript\MageScript</Filter>
+    </ClInclude>
+    <ClInclude Include="CMageHitBoxScript.h">
+      <Filter>Script\MonsterScript\MageScript</Filter>
+    </ClInclude>
+    <ClInclude Include="CMageHitScript.h">
+      <Filter>Script\MonsterScript\MageScript</Filter>
+    </ClInclude>
+    <ClInclude Include="CMageIdleScript.h">
+      <Filter>Script\MonsterScript\MageScript</Filter>
+    </ClInclude>
+    <ClInclude Include="CSwordManFallScript.h">
+      <Filter>Script\MonsterScript\SwordManScript</Filter>
+    </ClInclude>
+    <ClInclude Include="CMageBallScript.h">
+      <Filter>Script\MonsterScript\MageScript\MageBallScript</Filter>
+    </ClInclude>
+    <ClInclude Include="CMageBallSpawnScript.h">
+      <Filter>Script\MonsterScript\MageScript\MageBallScript</Filter>
+    </ClInclude>
+    <ClInclude Include="CMageBallAttackScript.h">
+      <Filter>Script\MonsterScript\MageScript\MageBallScript</Filter>
+    </ClInclude>
+    <ClInclude Include="CMageBallIdleScript.h">
+      <Filter>Script\MonsterScript\MageScript\MageBallScript</Filter>
+    </ClInclude>
+    <ClInclude Include="CMageBallTraceScript.h">
+      <Filter>Script\MonsterScript\MageScript\MageBallScript</Filter>
+    </ClInclude>
+    <ClInclude Include="CMageBallHitboxScript.h">
+      <Filter>Script\MonsterScript\MageScript\MageBallScript</Filter>
+    </ClInclude>
+    <ClInclude Include="CMageBallDeadScript.h">
+      <Filter>Script\MonsterScript\MageScript\MageBallScript</Filter>
+    </ClInclude>
+    <ClInclude Include="CMageSpawnScript.h">
+      <Filter>Script\MonsterScript\MageScript</Filter>
+    </ClInclude>
+    <ClInclude Include="CMousePointerScript.h" />
+    <ClInclude Include="CMonsterSpawnPointScript.h">
+      <Filter>Script\MonsterScript\SpawnPointScript</Filter>
+    </ClInclude>
+    <ClInclude Include="CSwordManSpawnScript.h">
+      <Filter>Script\MonsterScript\SwordManScript</Filter>
+    </ClInclude>
+    <ClInclude Include="CSwordManWaitScript.h">
+      <Filter>Script\MonsterScript\SwordManScript</Filter>
+    </ClInclude>
+    <ClInclude Include="CMageWaitScript.h">
+      <Filter>Script\MonsterScript\MageScript</Filter>
+    </ClInclude>
+    <ClInclude Include="CMageBallAfterImageScript.h">
+      <Filter>Script\MonsterScript\MageScript\MageBallScript</Filter>
+    </ClInclude>
+    <ClInclude Include="CGhoulWaitScript.h">
+      <Filter>Script\MonsterScript\GhoulScript</Filter>
+    </ClInclude>
+    <ClInclude Include="CGhoulAttackScript.h">
+      <Filter>Script\MonsterScript\GhoulScript</Filter>
+    </ClInclude>
+    <ClInclude Include="CGhoulAttackTraceScript.h">
+      <Filter>Script\MonsterScript\GhoulScript</Filter>
+    </ClInclude>
+    <ClInclude Include="CGhoulDeadScript.h">
+      <Filter>Script\MonsterScript\GhoulScript</Filter>
+    </ClInclude>
+    <ClInclude Include="CGhoulFallScript.h">
+      <Filter>Script\MonsterScript\GhoulScript</Filter>
+    </ClInclude>
+    <ClInclude Include="CGhoulHitBoxScript.h">
+      <Filter>Script\MonsterScript\GhoulScript</Filter>
+    </ClInclude>
+    <ClInclude Include="CGhoulHitScript.h">
+      <Filter>Script\MonsterScript\GhoulScript</Filter>
+    </ClInclude>
+    <ClInclude Include="CGhoulIdleScript.h">
+      <Filter>Script\MonsterScript\GhoulScript</Filter>
+    </ClInclude>
+    <ClInclude Include="CGhoulScript.h">
+      <Filter>Script\MonsterScript\GhoulScript</Filter>
+    </ClInclude>
+    <ClInclude Include="CGhoulSpawnScript.h">
+      <Filter>Script\MonsterScript\GhoulScript</Filter>
+    </ClInclude>
+    <ClInclude Include="CGhoulTraceScript.h">
+      <Filter>Script\MonsterScript\GhoulScript</Filter>
+    </ClInclude>
+    <ClInclude Include="CBossFloorScript.h">
+      <Filter>Script\MapScript\BossMap</Filter>
+    </ClInclude>
+    <ClInclude Include="CBossPitScript.h">
+      <Filter>Script\MapScript\BossMap</Filter>
+    </ClInclude>
+    <ClInclude Include="CBossWallScript.h">
+      <Filter>Script\MapScript\BossMap</Filter>
+    </ClInclude>
+    <ClInclude Include="CBossAttackScript.h">
+      <Filter>Script\BossScript</Filter>
+    </ClInclude>
+    <ClInclude Include="CBossFlexScript.h">
+      <Filter>Script\BossScript</Filter>
+    </ClInclude>
+    <ClInclude Include="CBossHitBoxScript.h">
+      <Filter>Script\BossScript</Filter>
+    </ClInclude>
+    <ClInclude Include="CBossHitScript.h">
+      <Filter>Script\BossScript</Filter>
+    </ClInclude>
+    <ClInclude Include="CBossIdleScript.h">
+      <Filter>Script\BossScript</Filter>
+    </ClInclude>
+    <ClInclude Include="CBossScript.h">
+      <Filter>Script\BossScript</Filter>
+    </ClInclude>
+    <ClInclude Include="CBossDeadScript.h">
+      <Filter>Script\BossScript</Filter>
+    </ClInclude>
+    <ClInclude Include="CBossWaveScript.h">
+      <Filter>Script\BossScript</Filter>
+    </ClInclude>
+    <ClInclude Include="CBossEnterScript.h">
+      <Filter>Script\BossScript</Filter>
+    </ClInclude>
+    <ClInclude Include="CBossDrillScript.h">
+      <Filter>Script\BossScript\BossAttack</Filter>
+    </ClInclude>
+    <ClInclude Include="CRockFistScript.h">
+      <Filter>Script\BossScript\BossAttack</Filter>
+    </ClInclude>
+    <ClInclude Include="CBossLeapAttackScript.h">
+      <Filter>Script\BossScript\BossAttack</Filter>
+    </ClInclude>
+    <ClInclude Include="CBossLeapAttackHitBoxScript.h">
+      <Filter>Script\BossScript\BossAttack</Filter>
+    </ClInclude>
+    <ClInclude Include="CTerraScript.h">
+      <Filter>Script\BossScript\BossAttack</Filter>
+    </ClInclude>
+    <ClInclude Include="CTowerScript.h">
+      <Filter>Script\BossScript\BossAttack</Filter>
+    </ClInclude>
+    <ClInclude Include="CMainLightScript.h">
+      <Filter>Script\MapScript\BossMap</Filter>
+    </ClInclude>
+    <ClInclude Include="CHitEffectScript.h">
+      <Filter>Script\MonsterScript</Filter>
+    </ClInclude>
+    <ClInclude Include="CDashEffectScript.h">
+      <Filter>Script\PlayerScript\PlayerParticle</Filter>
+    </ClInclude>
+    <ClInclude Include="CPlayerDustScript.h">
+      <Filter>Script\PlayerScript\PlayerParticle</Filter>
+    </ClInclude>
+    <ClInclude Include="CPlayerHPScript.h">
+      <Filter>Script\PlayerScript\PlayerUI</Filter>
+    </ClInclude>
+    <ClInclude Include="CPlayerFaceUIScript.h">
+      <Filter>Script\PlayerScript\PlayerUI</Filter>
+    </ClInclude>
+    <ClInclude Include="CPlayerHurtUIScript.h">
+      <Filter>Script\PlayerScript\PlayerUI</Filter>
+    </ClInclude>
+    <ClInclude Include="CPlayerMPScript.h">
+      <Filter>Script\PlayerScript\PlayerUI</Filter>
+    </ClInclude>
+    <ClInclude Include="CPlayerSkillBarScript.h">
+      <Filter>Script\PlayerScript\PlayerUI</Filter>
+    </ClInclude>
+    <ClInclude Include="CPlayerQBtnScript.h">
+      <Filter>Script\PlayerScript\PlayerUI</Filter>
+    </ClInclude>
+    <ClInclude Include="CPlayerEScript.h">
+      <Filter>Script\PlayerScript\PlayerUI</Filter>
+    </ClInclude>
+    <ClInclude Include="CPlayerLBtnScript.h">
+      <Filter>Script\PlayerScript\PlayerUI</Filter>
+    </ClInclude>
+    <ClInclude Include="CPlayerRBtnScript.h">
+      <Filter>Script\PlayerScript\PlayerUI</Filter>
+    </ClInclude>
+    <ClInclude Include="CPlayerRScript.h">
+      <Filter>Script\PlayerScript\PlayerUI</Filter>
+    </ClInclude>
+    <ClInclude Include="CPlayerSkillSlotScript.h">
+      <Filter>Script\PlayerScript\PlayerUI\SkillSlot</Filter>
+    </ClInclude>
+    <ClInclude Include="CESkillSlotScript.h">
+      <Filter>Script\PlayerScript\PlayerUI\SkillSlot</Filter>
+    </ClInclude>
+    <ClInclude Include="CLBtnSkillSlotScript.h">
+      <Filter>Script\PlayerScript\PlayerUI\SkillSlot</Filter>
+    </ClInclude>
+    <ClInclude Include="CQSkillSlotScript.h">
+      <Filter>Script\PlayerScript\PlayerUI\SkillSlot</Filter>
+    </ClInclude>
+    <ClInclude Include="CRBtnSkillSlotScript.h">
+      <Filter>Script\PlayerScript\PlayerUI\SkillSlot</Filter>
+    </ClInclude>
+    <ClInclude Include="CRSkillSlotScript.h">
+      <Filter>Script\PlayerScript\PlayerUI\SkillSlot</Filter>
+    </ClInclude>
+    <ClInclude Include="CSkillArrowScript.h">
+      <Filter>Script\PlayerScript\PlayerUI\SkillSlot</Filter>
+    </ClInclude>
+    <ClInclude Include="CSelectedSkillSlotScript.h">
+      <Filter>Script\PlayerScript\PlayerUI\SkillSlot</Filter>
+    </ClInclude>
+    <ClInclude Include="CSkillYellowArrowScript.h">
+      <Filter>Script\PlayerScript\PlayerUI\SkillSlot</Filter>
+    </ClInclude>
+    <ClInclude Include="CBossHPScript.h">
+      <Filter>Script\BossScript\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="CBossUIScript.h">
+      <Filter>Script\BossScript\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="CPressEnterScript.h">
+      <Filter>Script\MapScript\MainMenu</Filter>
+    </ClInclude>
+    <ClInclude Include="CMainMenuScript.h">
+      <Filter>Script\MapScript\MainMenu</Filter>
+    </ClInclude>
+    <ClInclude Include="CScriptLevelSaveLoad.h">
+      <Filter>ScriptLevelSaveLoad</Filter>
+    </ClInclude>
+    <ClInclude Include="CWaterBallArcanaScript.h">
+      <Filter>Script\MapScript\NormalMap\MapObject\Arcana</Filter>
+    </ClInclude>
+    <ClInclude Include="CMeteorArcanaScript.h">
+      <Filter>Script\MapScript\NormalMap\MapObject\Arcana</Filter>
+    </ClInclude>
+    <ClInclude Include="CIceCrystalArcanaScript.h">
+      <Filter>Script\MapScript\NormalMap\MapObject\Arcana</Filter>
+    </ClInclude>
+    <ClInclude Include="CDragonArcArcanaScript.h">
+      <Filter>Script\MapScript\NormalMap\MapObject\Arcana</Filter>
+    </ClInclude>
+    <ClInclude Include="CBGMScript.h">
+      <Filter>Script\MapScript\NormalMap</Filter>
+    </ClInclude>
+    <ClInclude Include="CMapScript.h">
+      <Filter>Script\MapScript\NormalMap</Filter>
+    </ClInclude>
+    <ClInclude Include="COverlayScript.h">
+      <Filter>Script\MapScript\NormalMap</Filter>
+    </ClInclude>
+    <ClInclude Include="CPitScript.h">
+      <Filter>Script\MapScript\NormalMap</Filter>
+    </ClInclude>
+    <ClInclude Include="CWallScript.h">
+      <Filter>Script\MapScript\NormalMap</Filter>
+    </ClInclude>
+    <ClInclude Include="CWaveWallHorScript.h">
+      <Filter>Script\MapScript\NormalMap</Filter>
+    </ClInclude>
+    <ClInclude Include="CWaveWallVerScript.h">
+      <Filter>Script\MapScript\NormalMap</Filter>
+    </ClInclude>
+    <ClInclude Include="CMerchantRugScript.h">
+      <Filter>Script\MapScript\NormalMap\MapObject</Filter>
+    </ClInclude>
+    <ClInclude Include="CMapPortalScript.h">
+      <Filter>Script\MapScript\MapPortal</Filter>
+    </ClInclude>
+    <ClInclude Include="CPortalParticleScript.h">
+      <Filter>Script\MapScript\MapPortal</Filter>
+    </ClInclude>
+    <ClInclude Include="CPortalSummonEffectScript.h">
+      <Filter>Script\MapScript\MapPortal</Filter>
+    </ClInclude>
+    <ClInclude Include="CHomeFloorScript.h">
+      <Filter>Script\MapScript\HomeMap</Filter>
+    </ClInclude>
+    <ClInclude Include="CHomeOverlayScript.h">
+      <Filter>Script\MapScript\HomeMap</Filter>
+    </ClInclude>
+    <ClInclude Include="CHomeWallScript.h">
+      <Filter>Script\MapScript\HomeMap</Filter>
+    </ClInclude>
+    <ClInclude Include="CWardrobeScript.h">
+      <Filter>Script\MapScript\HomeMap</Filter>
+    </ClInclude>
+    <ClInclude Include="CWardrobeUIScript.h">
+      <Filter>Script\MapScript\HomeMap</Filter>
+    </ClInclude>
+    <ClInclude Include="CWardrobeArrowScript.h">
+      <Filter>Script\MapScript\HomeMap</Filter>
+    </ClInclude>
+    <ClInclude Include="CPlayerMarkerScript.h">
+      <Filter>Script\PlayerScript\PlayerParticle</Filter>
+    </ClInclude>
+    <ClInclude Include="CBossFireflyScript.h">
+      <Filter>Script\MapScript\BossMap</Filter>
+    </ClInclude>
+    <ClInclude Include="CMerchantScript.h">
+      <Filter>Script\MapScript\NormalMap\MapObject</Filter>
+    </ClInclude>
+    <ClInclude Include="CPotionScript.h">
+      <Filter>Script\MapScript\NormalMap\MapObject</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="CRainParticleScript.cpp">
+      <Filter>Script\ParticleScript</Filter>
+    </ClCompile>
+    <ClCompile Include="CSnowParticleScript.cpp">
+      <Filter>Script\ParticleScript</Filter>
+    </ClCompile>
+    <ClCompile Include="CExplosionParticleScript.cpp">
+      <Filter>Script\ParticleScript</Filter>
+    </ClCompile>
+    <ClCompile Include="CFireParticleScript.cpp">
+      <Filter>Script\ParticleScript</Filter>
+    </ClCompile>
+    <ClCompile Include="Script.cpp">
+      <Filter>Default</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>Default</Filter>
+    </ClCompile>
+    <ClCompile Include="CScriptMgr.cpp" />
+    <ClCompile Include="CPlayerScript.cpp">
+      <Filter>Script\PlayerScript</Filter>
+    </ClCompile>
+    <ClCompile Include="CPlayerColorScript.cpp">
+      <Filter>Script\TestScripts</Filter>
+    </ClCompile>
+    <ClCompile Include="CMissileScript.cpp">
+      <Filter>Script\TestScripts</Filter>
+    </ClCompile>
+    <ClCompile Include="CChildScript.cpp">
+      <Filter>Script\TestScripts</Filter>
+    </ClCompile>
+    <ClCompile Include="CCameraMoveScript.cpp">
+      <Filter>Script\CameraScript</Filter>
+    </ClCompile>
+    <ClCompile Include="CPlayerCameraScript.cpp">
+      <Filter>Script\CameraScript</Filter>
+    </ClCompile>
+    <ClCompile Include="CPlayerAfterImageScript.cpp">
+      <Filter>Script\PlayerScript\PlayerAfterImage</Filter>
+    </ClCompile>
+    <ClCompile Include="CPlayerAttackScript.cpp">
+      <Filter>Script\PlayerScript\PlayerStateScript</Filter>
+    </ClCompile>
+    <ClCompile Include="CPlayerDashScript.cpp">
+      <Filter>Script\PlayerScript\PlayerStateScript</Filter>
+    </ClCompile>
+    <ClCompile Include="CPlayerDashStopScript.cpp">
+      <Filter>Script\PlayerScript\PlayerStateScript</Filter>
+    </ClCompile>
+    <ClCompile Include="CPlayerIdleScript.cpp">
+      <Filter>Script\PlayerScript\PlayerStateScript</Filter>
+    </ClCompile>
+    <ClCompile Include="CPlayerSlideScript.cpp">
+      <Filter>Script\PlayerScript\PlayerStateScript</Filter>
+    </ClCompile>
+    <ClCompile Include="CPlayerWalkScript.cpp">
+      <Filter>Script\PlayerScript\PlayerStateScript</Filter>
+    </ClCompile>
+    <ClCompile Include="CPlayerHitBoxScript.cpp">
+      <Filter>Script\PlayerScript\PlayerHitBox</Filter>
+    </ClCompile>
+    <ClCompile Include="CPlayerFallScript.cpp">
+      <Filter>Script\PlayerScript\PlayerStateScript</Filter>
+    </ClCompile>
+    <ClCompile Include="CMonsterScript.cpp">
+      <Filter>Script\MonsterScript</Filter>
+    </ClCompile>
+    <ClCompile Include="CSnowFlakeScript.cpp">
+      <Filter>Script\PlayerScript\PlayerSkills</Filter>
+    </ClCompile>
+    <ClCompile Include="CPlayerDeadScript.cpp">
+      <Filter>Script\PlayerScript\PlayerStateScript</Filter>
+    </ClCompile>
+    <ClCompile Include="CMeteorScript.cpp">
+      <Filter>Script\PlayerScript\PlayerSkills\Meteor</Filter>
+    </ClCompile>
+    <ClCompile Include="CMeteorRingScript.cpp">
+      <Filter>Script\PlayerScript\PlayerSkills\Meteor</Filter>
+    </ClCompile>
+    <ClCompile Include="CMeteorSmokeParticleScript.cpp">
+      <Filter>Script\PlayerScript\PlayerSkills\Meteor</Filter>
+    </ClCompile>
+    <ClCompile Include="CMeteorFloorCrackScript.cpp">
+      <Filter>Script\PlayerScript\PlayerSkills\Meteor</Filter>
+    </ClCompile>
+    <ClCompile Include="CMeteorDamageZoneScript.cpp">
+      <Filter>Script\PlayerScript\PlayerSkills\Meteor</Filter>
+    </ClCompile>
+    <ClCompile Include="CMeteorSpawnCircleScript.cpp">
+      <Filter>Script\PlayerScript\PlayerSkills\Meteor</Filter>
+    </ClCompile>
+    <ClCompile Include="CBackHandAttackScript.cpp">
+      <Filter>Script\PlayerScript\PlayerSkills\NormalAttack</Filter>
+    </ClCompile>
+    <ClCompile Include="CForeHandAttackScript.cpp">
+      <Filter>Script\PlayerScript\PlayerSkills\NormalAttack</Filter>
+    </ClCompile>
+    <ClCompile Include="CDragonBreathScript.cpp">
+      <Filter>Script\PlayerScript\PlayerSkills\DragonBreath</Filter>
+    </ClCompile>
+    <ClCompile Include="CDragonParticleScript.cpp">
+      <Filter>Script\PlayerScript\PlayerSkills\DragonBreath</Filter>
+    </ClCompile>
+    <ClCompile Include="CWaterBombScript.cpp">
+      <Filter>Script\PlayerScript\PlayerSkills\WaterBomb</Filter>
+    </ClCompile>
+    <ClCompile Include="CPlayerInfo.cpp">
+      <Filter>Script\PlayerScript</Filter>
+    </ClCompile>
+    <ClCompile Include="CChaosBombScript.cpp">
+      <Filter>Script\PlayerScript\PlayerSkills\ChaosBomb</Filter>
+    </ClCompile>
+    <ClCompile Include="CBlackHoleParticleScript.cpp">
+      <Filter>Script\PlayerScript\PlayerSkills\ChaosBomb</Filter>
+    </ClCompile>
+    <ClCompile Include="CSwordManScript.cpp">
+      <Filter>Script\MonsterScript\SwordManScript</Filter>
+    </ClCompile>
+    <ClCompile Include="CSwordManIdleScript.cpp">
+      <Filter>Script\MonsterScript\SwordManScript</Filter>
+    </ClCompile>
+    <ClCompile Include="CSwordManTraceScript.cpp">
+      <Filter>Script\MonsterScript\SwordManScript</Filter>
+    </ClCompile>
+    <ClCompile Include="CSwordManHitScript.cpp">
+      <Filter>Script\MonsterScript\SwordManScript</Filter>
+    </ClCompile>
+    <ClCompile Include="CSwordManDeadScript.cpp">
+      <Filter>Script\MonsterScript\SwordManScript</Filter>
+    </ClCompile>
+    <ClCompile Include="CSwordManHitBoxScript.cpp">
+      <Filter>Script\MonsterScript\SwordManScript</Filter>
+    </ClCompile>
+    <ClCompile Include="CSwordManAttackScript.cpp">
+      <Filter>Script\MonsterScript\SwordManScript</Filter>
+    </ClCompile>
+    <ClCompile Include="CSwordManAttackTraceScript.cpp">
+      <Filter>Script\MonsterScript\SwordManScript</Filter>
+    </ClCompile>
+    <ClCompile Include="CPlayerHitScript.cpp">
+      <Filter>Script\PlayerScript\PlayerStateScript</Filter>
+    </ClCompile>
+    <ClCompile Include="CMageScript.cpp">
+      <Filter>Script\MonsterScript\MageScript</Filter>
+    </ClCompile>
+    <ClCompile Include="CMageAttackScript.cpp">
+      <Filter>Script\MonsterScript\MageScript</Filter>
+    </ClCompile>
+    <ClCompile Include="CMageDeadScript.cpp">
+      <Filter>Script\MonsterScript\MageScript</Filter>
+    </ClCompile>
+    <ClCompile Include="CMageHitBoxScript.cpp">
+      <Filter>Script\MonsterScript\MageScript</Filter>
+    </ClCompile>
+    <ClCompile Include="CMageHitScript.cpp">
+      <Filter>Script\MonsterScript\MageScript</Filter>
+    </ClCompile>
+    <ClCompile Include="CMageIdleScript.cpp">
+      <Filter>Script\MonsterScript\MageScript</Filter>
+    </ClCompile>
+    <ClCompile Include="CSwordManFallScript.cpp">
+      <Filter>Script\MonsterScript\SwordManScript</Filter>
+    </ClCompile>
+    <ClCompile Include="CMageBallScript.cpp">
+      <Filter>Script\MonsterScript\MageScript\MageBallScript</Filter>
+    </ClCompile>
+    <ClCompile Include="CMageBallSpawnScript.cpp">
+      <Filter>Script\MonsterScript\MageScript\MageBallScript</Filter>
+    </ClCompile>
+    <ClCompile Include="CMageBallAttackScript.cpp">
+      <Filter>Script\MonsterScript\MageScript\MageBallScript</Filter>
+    </ClCompile>
+    <ClCompile Include="CMageBallIdleScript.cpp">
+      <Filter>Script\MonsterScript\MageScript\MageBallScript</Filter>
+    </ClCompile>
+    <ClCompile Include="CMageBallTraceScript.cpp">
+      <Filter>Script\MonsterScript\MageScript\MageBallScript</Filter>
+    </ClCompile>
+    <ClCompile Include="CMageBallHitboxScript.cpp">
+      <Filter>Script\MonsterScript\MageScript\MageBallScript</Filter>
+    </ClCompile>
+    <ClCompile Include="CMageBallDeadScript.cpp">
+      <Filter>Script\MonsterScript\MageScript\MageBallScript</Filter>
+    </ClCompile>
+    <ClCompile Include="CMageSpawnScript.cpp">
+      <Filter>Script\MonsterScript\MageScript</Filter>
+    </ClCompile>
+    <ClCompile Include="CMousePointerScript.cpp" />
+    <ClCompile Include="CMonsterSpawnPointScript.cpp">
+      <Filter>Script\MonsterScript\SpawnPointScript</Filter>
+    </ClCompile>
+    <ClCompile Include="CSwordManSpawnScript.cpp">
+      <Filter>Script\MonsterScript\SwordManScript</Filter>
+    </ClCompile>
+    <ClCompile Include="CSwordManWaitScript.cpp">
+      <Filter>Script\MonsterScript\SwordManScript</Filter>
+    </ClCompile>
+    <ClCompile Include="CMageWaitScript.cpp">
+      <Filter>Script\MonsterScript\MageScript</Filter>
+    </ClCompile>
+    <ClCompile Include="CMageBallAfterImageScript.cpp">
+      <Filter>Script\MonsterScript\MageScript\MageBallScript</Filter>
+    </ClCompile>
+    <ClCompile Include="CGhoulAttackScript.cpp">
+      <Filter>Script\MonsterScript\GhoulScript</Filter>
+    </ClCompile>
+    <ClCompile Include="CGhoulAttackTraceScript.cpp">
+      <Filter>Script\MonsterScript\GhoulScript</Filter>
+    </ClCompile>
+    <ClCompile Include="CGhoulDeadScript.cpp">
+      <Filter>Script\MonsterScript\GhoulScript</Filter>
+    </ClCompile>
+    <ClCompile Include="CGhoulFallScript.cpp">
+      <Filter>Script\MonsterScript\GhoulScript</Filter>
+    </ClCompile>
+    <ClCompile Include="CGhoulHitBoxScript.cpp">
+      <Filter>Script\MonsterScript\GhoulScript</Filter>
+    </ClCompile>
+    <ClCompile Include="CGhoulHitScript.cpp">
+      <Filter>Script\MonsterScript\GhoulScript</Filter>
+    </ClCompile>
+    <ClCompile Include="CGhoulIdleScript.cpp">
+      <Filter>Script\MonsterScript\GhoulScript</Filter>
+    </ClCompile>
+    <ClCompile Include="CGhoulScript.cpp">
+      <Filter>Script\MonsterScript\GhoulScript</Filter>
+    </ClCompile>
+    <ClCompile Include="CGhoulSpawnScript.cpp">
+      <Filter>Script\MonsterScript\GhoulScript</Filter>
+    </ClCompile>
+    <ClCompile Include="CGhoulTraceScript.cpp">
+      <Filter>Script\MonsterScript\GhoulScript</Filter>
+    </ClCompile>
+    <ClCompile Include="CGhoulWaitScript.cpp">
+      <Filter>Script\MonsterScript\GhoulScript</Filter>
+    </ClCompile>
+    <ClCompile Include="CBossFloorScript.cpp">
+      <Filter>Script\MapScript\BossMap</Filter>
+    </ClCompile>
+    <ClCompile Include="CBossPitScript.cpp">
+      <Filter>Script\MapScript\BossMap</Filter>
+    </ClCompile>
+    <ClCompile Include="CBossWallScript.cpp">
+      <Filter>Script\MapScript\BossMap</Filter>
+    </ClCompile>
+    <ClCompile Include="CBossAttackScript.cpp">
+      <Filter>Script\BossScript</Filter>
+    </ClCompile>
+    <ClCompile Include="CBossFlexScript.cpp">
+      <Filter>Script\BossScript</Filter>
+    </ClCompile>
+    <ClCompile Include="CBossHitBoxScript.cpp">
+      <Filter>Script\BossScript</Filter>
+    </ClCompile>
+    <ClCompile Include="CBossHitScript.cpp">
+      <Filter>Script\BossScript</Filter>
+    </ClCompile>
+    <ClCompile Include="CBossIdleScript.cpp">
+      <Filter>Script\BossScript</Filter>
+    </ClCompile>
+    <ClCompile Include="CBossScript.cpp">
+      <Filter>Script\BossScript</Filter>
+    </ClCompile>
+    <ClCompile Include="CBossDeadScript.cpp">
+      <Filter>Script\BossScript</Filter>
+    </ClCompile>
+    <ClCompile Include="CBossWaveScript.cpp">
+      <Filter>Script\BossScript</Filter>
+    </ClCompile>
+    <ClCompile Include="CBossEnterScript.cpp">
+      <Filter>Script\BossScript</Filter>
+    </ClCompile>
+    <ClCompile Include="CBossDrillScript.cpp">
+      <Filter>Script\BossScript\BossAttack</Filter>
+    </ClCompile>
+    <ClCompile Include="CRockFistScript.cpp">
+      <Filter>Script\BossScript\BossAttack</Filter>
+    </ClCompile>
+    <ClCompile Include="CBossLeapAttackScript.cpp">
+      <Filter>Script\BossScript\BossAttack</Filter>
+    </ClCompile>
+    <ClCompile Include="CBossLeapAttackHitBoxScript.cpp">
+      <Filter>Script\BossScript\BossAttack</Filter>
+    </ClCompile>
+    <ClCompile Include="CTerraScript.cpp">
+      <Filter>Script\BossScript\BossAttack</Filter>
+    </ClCompile>
+    <ClCompile Include="CTowerScript.cpp">
+      <Filter>Script\BossScript\BossAttack</Filter>
+    </ClCompile>
+    <ClCompile Include="CMainLightScript.cpp">
+      <Filter>Script\MapScript\BossMap</Filter>
+    </ClCompile>
+    <ClCompile Include="CHitEffectScript.cpp">
+      <Filter>Script\MonsterScript</Filter>
+    </ClCompile>
+    <ClCompile Include="CDashEffectScript.cpp">
+      <Filter>Script\PlayerScript\PlayerParticle</Filter>
+    </ClCompile>
+    <ClCompile Include="CPlayerDustScript.cpp">
+      <Filter>Script\PlayerScript\PlayerParticle</Filter>
+    </ClCompile>
+    <ClCompile Include="CPlayerHPScript.cpp">
+      <Filter>Script\PlayerScript\PlayerUI</Filter>
+    </ClCompile>
+    <ClCompile Include="CPlayerFaceUIScript.cpp">
+      <Filter>Script\PlayerScript\PlayerUI</Filter>
+    </ClCompile>
+    <ClCompile Include="CPlayerHurtUIScript.cpp">
+      <Filter>Script\PlayerScript\PlayerUI</Filter>
+    </ClCompile>
+    <ClCompile Include="CPlayerMPScript.cpp">
+      <Filter>Script\PlayerScript\PlayerUI</Filter>
+    </ClCompile>
+    <ClCompile Include="CPlayerSkillBarScript.cpp">
+      <Filter>Script\PlayerScript\PlayerUI</Filter>
+    </ClCompile>
+    <ClCompile Include="CPlayerQBtnScript.cpp">
+      <Filter>Script\PlayerScript\PlayerUI</Filter>
+    </ClCompile>
+    <ClCompile Include="CPlayerEScript.cpp">
+      <Filter>Script\PlayerScript\PlayerUI</Filter>
+    </ClCompile>
+    <ClCompile Include="CPlayerLBtnScript.cpp">
+      <Filter>Script\PlayerScript\PlayerUI</Filter>
+    </ClCompile>
+    <ClCompile Include="CPlayerRBtnScript.cpp">
+      <Filter>Script\PlayerScript\PlayerUI</Filter>
+    </ClCompile>
+    <ClCompile Include="CPlayerRScript.cpp">
+      <Filter>Script\PlayerScript\PlayerUI</Filter>
+    </ClCompile>
+    <ClCompile Include="CPlayerSkillSlotScript.cpp">
+      <Filter>Script\PlayerScript\PlayerUI\SkillSlot</Filter>
+    </ClCompile>
+    <ClCompile Include="CESkillSlotScript.cpp">
+      <Filter>Script\PlayerScript\PlayerUI\SkillSlot</Filter>
+    </ClCompile>
+    <ClCompile Include="CLBtnSkillSlotScript.cpp">
+      <Filter>Script\PlayerScript\PlayerUI\SkillSlot</Filter>
+    </ClCompile>
+    <ClCompile Include="CQSkillSlotScript.cpp">
+      <Filter>Script\PlayerScript\PlayerUI\SkillSlot</Filter>
+    </ClCompile>
+    <ClCompile Include="CRBtnSkillSlotScript.cpp">
+      <Filter>Script\PlayerScript\PlayerUI\SkillSlot</Filter>
+    </ClCompile>
+    <ClCompile Include="CRSkillSlotScript.cpp">
+      <Filter>Script\PlayerScript\PlayerUI\SkillSlot</Filter>
+    </ClCompile>
+    <ClCompile Include="CSkillArrowScript.cpp">
+      <Filter>Script\PlayerScript\PlayerUI\SkillSlot</Filter>
+    </ClCompile>
+    <ClCompile Include="CSelectedSkillSlotScript.cpp">
+      <Filter>Script\PlayerScript\PlayerUI\SkillSlot</Filter>
+    </ClCompile>
+    <ClCompile Include="CSkillYellowArrowScript.cpp">
+      <Filter>Script\PlayerScript\PlayerUI\SkillSlot</Filter>
+    </ClCompile>
+    <ClCompile Include="CBossHPScript.cpp">
+      <Filter>Script\BossScript\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="CBossUIScript.cpp">
+      <Filter>Script\BossScript\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="CPressEnterScript.cpp">
+      <Filter>Script\MapScript\MainMenu</Filter>
+    </ClCompile>
+    <ClCompile Include="CMainMenuScript.cpp">
+      <Filter>Script\MapScript\MainMenu</Filter>
+    </ClCompile>
+    <ClCompile Include="CScriptLevelSaveLoad.cpp">
+      <Filter>ScriptLevelSaveLoad</Filter>
+    </ClCompile>
+    <ClCompile Include="CWaterBallArcanaScript.cpp">
+      <Filter>Script\MapScript\NormalMap\MapObject\Arcana</Filter>
+    </ClCompile>
+    <ClCompile Include="CMeteorArcanaScript.cpp">
+      <Filter>Script\MapScript\NormalMap\MapObject\Arcana</Filter>
+    </ClCompile>
+    <ClCompile Include="CIceCrystalArcanaScript.cpp">
+      <Filter>Script\MapScript\NormalMap\MapObject\Arcana</Filter>
+    </ClCompile>
+    <ClCompile Include="CDragonArcArcanaScript.cpp">
+      <Filter>Script\MapScript\NormalMap\MapObject\Arcana</Filter>
+    </ClCompile>
+    <ClCompile Include="CBGMScript.cpp">
+      <Filter>Script\MapScript\NormalMap</Filter>
+    </ClCompile>
+    <ClCompile Include="CMapScript.cpp">
+      <Filter>Script\MapScript\NormalMap</Filter>
+    </ClCompile>
+    <ClCompile Include="COverlayScript.cpp">
+      <Filter>Script\MapScript\NormalMap</Filter>
+    </ClCompile>
+    <ClCompile Include="CPitScript.cpp">
+      <Filter>Script\MapScript\NormalMap</Filter>
+    </ClCompile>
+    <ClCompile Include="CWallScript.cpp">
+      <Filter>Script\MapScript\NormalMap</Filter>
+    </ClCompile>
+    <ClCompile Include="CWaveWallHorScript.cpp">
+      <Filter>Script\MapScript\NormalMap</Filter>
+    </ClCompile>
+    <ClCompile Include="CWaveWallVerScript.cpp">
+      <Filter>Script\MapScript\NormalMap</Filter>
+    </ClCompile>
+    <ClCompile Include="CMerchantRugScript.cpp">
+      <Filter>Script\MapScript\NormalMap\MapObject</Filter>
+    </ClCompile>
+    <ClCompile Include="CMapPortalScript.cpp">
+      <Filter>Script\MapScript\MapPortal</Filter>
+    </ClCompile>
+    <ClCompile Include="CPortalParticleScript.cpp">
+      <Filter>Script\MapScript\MapPortal</Filter>
+    </ClCompile>
+    <ClCompile Include="CPortalSummonEffectScript.cpp">
+      <Filter>Script\MapScript\MapPortal</Filter>
+    </ClCompile>
+    <ClCompile Include="CHomeFloorScript.cpp">
+      <Filter>Script\MapScript\HomeMap</Filter>
+    </ClCompile>
+    <ClCompile Include="CHomeWallScript.cpp">
+      <Filter>Script\MapScript\HomeMap</Filter>
+    </ClCompile>
+    <ClCompile Include="CHomeOverlayScript.cpp">
+      <Filter>Script\MapScript\HomeMap</Filter>
+    </ClCompile>
+    <ClCompile Include="CWardrobeScript.cpp">
+      <Filter>Script\MapScript\HomeMap</Filter>
+    </ClCompile>
+    <ClCompile Include="CWardrobeUIScript.cpp">
+      <Filter>Script\MapScript\HomeMap</Filter>
+    </ClCompile>
+    <ClCompile Include="CWardrobeArrowScript.cpp">
+      <Filter>Script\MapScript\HomeMap</Filter>
+    </ClCompile>
+    <ClCompile Include="CPlayerMarkerScript.cpp">
+      <Filter>Script\PlayerScript\PlayerParticle</Filter>
+    </ClCompile>
+    <ClCompile Include="CBossFireflyScript.cpp">
+      <Filter>Script\MapScript\BossMap</Filter>
+    </ClCompile>
+    <ClCompile Include="CMerchantScript.cpp">
+      <Filter>Script\MapScript\NormalMap\MapObject</Filter>
+    </ClCompile>
+    <ClCompile Include="CPotionScript.cpp">
+      <Filter>Script\MapScript\NormalMap\MapObject</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
