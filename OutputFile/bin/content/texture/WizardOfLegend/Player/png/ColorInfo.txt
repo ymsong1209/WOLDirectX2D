@@ -1,0 +1,28 @@
+ColorInfo
+origin 113 113 113
+red 183 39 61
+
+origin 122 122 122
+red 168 36 50
+
+origin 159 159 159
+red 117 27 39
+
+origin 77 77 77
+red 73 30 30
+
+origin 68 68 68
+red 94 41 40
+
+origin 177 177 177
+red 46 16 18
+
+origin 132 132 132
+red 152 14 34
+
+origin 150 150 150
+red 130 16 33
+
+origin 168 168 168
+red 83 23 27
+

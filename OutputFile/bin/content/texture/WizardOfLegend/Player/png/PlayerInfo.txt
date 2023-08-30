@@ -1,0 +1,65 @@
+PlayerAttack1 1224 624
+136 * 156
+9*4
+backhanddown
+backhandup
+backhandright
+backhandleft
+
+PlayerAttack2 1216 592
+152*148
+8*4
+ForehandDown
+ForehandUp
+ForehandRight
+ForehandLeft
+
+PlayerAttack3 1260 608
+140*152
+9*4
+PBAoEDown
+PBAoEUp
+PBAoERight
+PBAoELeft
+
+PlayerDash 392 512
+132 * 128
+3*4
+DashDown
+DashUp
+DashRight
+DashLeft
+
+PlayerDead	 1040 * 168
+104 * 168
+10 * 1
+
+PlayerFall
+140*152
+Down
+Up
+Right
+Left
+
+PlayerHit
+84 * 124
+Down
+Up
+Right
+Left
+
+PlayerIdle
+64 * 132
+Down
+Up
+Right
+Left
+
+PlayerWalk
+67*74
+Down
+Up
+Right
+Left
+
+
